@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "CampaignsChronicler"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Data Source=83.98.182.190;Initial Catalog=CampaignsChronicler;User ID=dannyvan;Password=529Ad1e7"
+    }
+  }
+}
